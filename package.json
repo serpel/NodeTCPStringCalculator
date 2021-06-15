@@ -1,0 +1,9 @@
+{
+  "name": "StarryCodeChallenge",
+  "version": "1.0.0",
+  "description": "Code Challenge",
+  "main": "server.js",
+  "author": "Sergio J. Peralta",
+  "license": "MIT",
+  "private": true
+}
